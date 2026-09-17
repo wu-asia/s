@@ -7,3 +7,4 @@ print("gray")
 print("pink")
 print("blue")
 
+print("white")

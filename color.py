@@ -9,3 +9,5 @@ print("blue")
 
 print("white")
 print("black")
+
+print("黑色")

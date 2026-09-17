@@ -8,3 +8,4 @@ print("pink")
 print("blue")
 
 print("white")
+print("黑色")
